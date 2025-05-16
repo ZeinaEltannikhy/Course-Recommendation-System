@@ -25,6 +25,6 @@ The notebook demonstrates how to handle large datasets efficiently using PySpark
    ```bash
    pip install pyspark pandas
 
-2.Launch Jupyter Notebook:
+ 2.Launch Jupyter Notebook:
 
-jupyter notebook Bigdata_Final_Project_.ipynb
+   jupyter notebook Bigdata_Final_Project_.ipynb
